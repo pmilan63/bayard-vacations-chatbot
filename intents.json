@@ -1,0 +1,18 @@
+{
+  "packages": {
+    "keywords": ["package", "tour", "plan"],
+    "response": "Bayard Vacations offers domestic and international tour packages including honeymoon, family, and group tours."
+  },
+  "destinations": {
+    "keywords": ["destination", "places", "location"],
+    "response": "Popular destinations include Goa, Kerala, Dubai, Bali, Maldives, and Europe."
+  },
+  "pricing": {
+    "keywords": ["price", "cost", "budget", "fees"],
+    "response": "Pricing depends on destination, duration, number of travelers, and season. Please contact us for a customized quote."
+  },
+  "booking": {
+    "keywords": ["book", "booking", "process", "how"],
+    "response": "You can book by contacting our travel experts. We assist with itinerary planning, payments, and documentation."
+  }
+}

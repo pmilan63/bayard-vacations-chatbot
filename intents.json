@@ -1,4 +1,9 @@
 {
+  "greeting": {
+  "keywords": ["hi", "hello", "hey", "good morning", "good evening"],
+  "response": "Hello! 👋 Welcome to Bayard Vacations. How can I help you today?"
+  }
+  ,
   "packages": {
     "keywords": ["package", "tour", "plan"],
     "response": "Bayard Vacations offers domestic and international tour packages including honeymoon, family, and group tours."
